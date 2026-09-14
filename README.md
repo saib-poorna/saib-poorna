@@ -3,6 +3,14 @@
 UC San Diego · Data Science & Business Analytics
 ---
 
+## 🎓 Capstone Research
+
+| Project | Description | Tools |
+|---|---|---|
+| [Applications of Fairness: Label Bias and Recovery of Ground Truth](https://s2balamurugan.github.io/agency-jekyll-theme/) ([code](https://github.com/linabat/fairness-application)) | Mentored research project (mentor: Babak Salimi) building an encoder-decoder model with an adversarial Gradient Reversal Layer to recover fair latent labels from biased observed labels. Reduced demographic parity difference by 50% (UCI Adult) and 30% (COMPAS) while maintaining accuracy/AUC; documented the fairness-performance trade-off on a multi-class dataset. | Python, logistic regression, adversarial training |
+
+---
+
 ## 📊 Data Science & Machine Learning
 
 | Project | Description | Tools |
