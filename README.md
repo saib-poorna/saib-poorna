@@ -6,6 +6,12 @@
 |---|---|---|
 | [Applications of Fairness: Label Bias and Recovery of Ground Truth](https://s2balamurugan.github.io/agency-jekyll-theme/) ([code](https://github.com/linabat/fairness-application)) | Mentored research project (mentor: Babak Salimi) building an encoder-decoder model with an adversarial Gradient Reversal Layer to recover fair latent labels from biased observed labels. Reduced demographic parity difference by 50% (UCI Adult) and 30% (COMPAS) while maintaining accuracy/AUC; documented the fairness-performance trade-off on a multi-class dataset. | Python, logistic regression, adversarial training |
 
+## 🏆 Data Science Challenges
+
+| Project | Description | Tools |
+|---|---|---|
+| [Detection & Classification of Objects in Telescope Data](https://github.com/saib-poorna/llnl-data-science-challenge-2021) | Lawrence Livermore National Laboratory (LLNL) Data Science Challenge 2021, mentored by Kerianne Pruett (UC Riverside). Built and compared CNNs (simple CNN, LeNet5, AlexNet) against classical ML (Naive Bayes, Gaussian Process, Gradient Boosting) for star vs. galaxy classification, and built a full data pipeline for asteroid detection, reaching 96% accuracy after iterative data cleaning. | Python, TensorFlow, scikit-learn |
+
 ---
 
 ## 📊 Data Science & Machine Learning
