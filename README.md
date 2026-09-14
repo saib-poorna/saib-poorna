@@ -1,9 +1,6 @@
 # Poorna — Data & Business Analytics Portfolio
 
 UC San Diego · Data Science & Business Analytics
-
-<!-- Optional: add a one-line summary of your focus area and a link to your resume/LinkedIn here -->
-
 ---
 
 ## 📊 Data Science & Machine Learning
@@ -16,9 +13,9 @@ UC San Diego · Data Science & Business Analytics
 | [COVID-19 Vaccine Rollout Analysis](https://github.com/saib-poorna/COVID-Vaccinations-Rates-and-Effectiveness) | Cleaned and reconciled multi-source vaccine/population data; built a Plotly choropleth of doses-per-capita and an age-stratified vaccine effectiveness analysis. | Python, pandas, Plotly |
 | [Marvel vs. DC Character Analysis](https://github.com/saib-poorna/Marvel-and-DC-Analysis) | Used permutation and bootstrap hypothesis testing to compare character attributes and representation across publishers. | babypandas |
 | [Spotify Top 200 Charts Analysis](https://github.com/saib-poorna/Spotify-Songs-Analysis) | Explored a 70,000+ row global chart dataset for song-identity and trend patterns. | babypandas |
-| Spam Email Classification | Benchmarked 7 classifiers (logistic regression, LDA/QDA, SVM, decision tree, random forest, bagging) across 3 feature encodings; tuned a random forest via Bayesian optimization to 2.5% test error. | R, MASS, e1071, randomForest, mlrMBO |
-| N-Gram Language Models | Implemented unigram through arbitrary-N language models from scratch, including tokenizer and text generator, on Project Gutenberg texts. | Python, pandas, numpy |
-| Course Grade Pipeline | Built a pandas pipeline computing grades from raw assignment data, including late penalties, redemption policy, and z-score normalization. | Python, pandas |
+| [N-Gram Language Models](https://github.com/saib-poorna/ngram-language-models) | Implemented unigram through arbitrary-N language models from scratch, including tokenizer and text generator, on Project Gutenberg texts. | Python, pandas, numpy |
+| [Course Grade Pipeline](https://github.com/saib-poorna/grade-computation-pipeline) | Built a pandas pipeline computing grades from raw assignment data, including late penalties, redemption policy, and z-score normalization. | Python, pandas |
+| [Spam Email Classification](https://github.com/saib-poorna/business-analytics-case-studies) | Benchmarked 7 classifiers (logistic regression, LDA/QDA, SVM, decision tree, random forest, bagging) across 3 feature encodings; tuned a random forest via Bayesian optimization to 2.5% test error. | R, MASS, e1071, randomForest, mlrMBO |
 
 ## 💻 Software Engineering
 
@@ -30,11 +27,11 @@ UC San Diego · Data Science & Business Analytics
 
 | Project | Description | Tools |
 |---|---|---|
-| Southwest Airlines Overbooking + Bank Queue Simulation | Found the profit-maximizing overbooking level (265 tickets, ~$78,946 avg. profit) and built a discrete-event bank simulation comparing staffing vs. training fixes for a queue bottleneck. | Excel, simulation modeling |
-| RSA Televisions Supply Chain Strategy | EOQ- and safety-stock-based inventory strategy for a manufacturer facing shipping and storage disruptions; phased short/mid/long-term recommendations. | EOQ modeling, case analysis |
-| ER Games Sales Strategy | Regression and A/B testing to identify sales drivers and target markets; clustering to inform a genre-strategy pivot. | JMP, regression, clustering |
+| [Southwest Airlines Overbooking + Bank Queue Simulation](https://github.com/saib-poorna/southwest-airlines-bank-simulation) | Found the profit-maximizing overbooking level (265 tickets, ~$78,946 avg. profit) and built a discrete-event bank simulation comparing staffing vs. training fixes for a queue bottleneck. | Excel, simulation modeling |
+| [RSA Televisions Supply Chain Strategy](https://github.com/saib-poorna/business-analytics-case-studies) | EOQ- and safety-stock-based inventory strategy for a manufacturer facing shipping and storage disruptions; phased short/mid/long-term recommendations. | EOQ modeling, case analysis |
+| [ER Games Sales Strategy](https://github.com/saib-poorna/business-analytics-case-studies) | Regression and A/B testing to identify sales drivers and target markets; clustering to inform a genre-strategy pivot. | JMP, regression, clustering |
 
 ---
 
 ### About this portfolio
-This repo indexes projects built during my UC San Diego coursework in data science and business analytics. Each linked repo has its own README with more detail on the problem, approach, and results. Unlinked projects don't have a repo yet.
+This repo indexes projects built during my UC San Diego coursework in data science and business analytics. Each linked repo has its own README with more detail on the problem, approach, and results.
