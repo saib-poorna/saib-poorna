@@ -1,8 +1,5 @@
 # Poorna — Data & Business Analytics Portfolio
 
-UC San Diego · Data Science & Business Analytics
----
-
 ## 🎓 Capstone Research
 
 | Project | Description | Tools |
